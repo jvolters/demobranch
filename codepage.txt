@@ -1,10 +1,12 @@
 this is the initialization of demobranch
 
 02-01-2018; making some code changes
+  * add codechange back here
 And I am adding this third line here.
 
 03-10-2018
 I am adding more code here.
+ * add code change back here
 Lastly adding this row.
 
 04-14-2018
@@ -12,5 +14,12 @@ second feature branch
 adding more lines here
 and here
 some more here
+
+05-15-2018
+third feature branch
+adding more lines here...
+and here...
+and here...
+and some more here
 
 
